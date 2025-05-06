@@ -1,0 +1,70 @@
+Project Title
+
+CONTENT VIRALITY AND PLATFORM PERFORMANCE OVERVIEW FOR THE YEAR 2020.
+
+Project Summary
+
+The dataset tells the story of how different content types, hashtags, and social media platforms contribute to the virality of posts. Videos and short-form content, particularly those using trending hashtags like #Challenge and #Education was highly viewed and shared. TikTok emerged as a top platform for viral content, with regions like the UK and India leading in viewership. Engagement levels varied significantly based on platform and content strategy. The data reflects that both content type and regional preferences are vital to crafting effective social media campaigns.
+
+Key Skills
+
+Data Analytics: Proficient in analyzing and interpreting complex datasets to uncover meaningful trends.
+Excel Skill: Skilled in creating interactive dashboards for actionable insights using tools like Excel.
+Trend Analysis: Expertise in identifying patterns and deviations to support evidence-based decision-making.
+Data Visualization: Ability to design visually compelling charts that communicate key findings effectively.
+Methodology
+
+Data Collection:
+Data was gathered from Kaggle.
+Data Visualization:
+Visualized through Excel to provide a comparative analysis of different content types, hashtags, and social media platforms contribute to the virality of posts, social media growth.
+Trend Analysis:
+Patterns were studied across platforms emphasizing virality in content type, engagement post and hashtags.                                                                         
+Observation
+
+Platforms By Views
+
+YouTube leads in total views with over 3.3 billion, closely followed by TikTok and Twitter.The gap between YouTube and TikTok isn’t massive, indicating both platforms have highly consumable content. Instagram had the lowest total views.
+Engagement Level Distribution
+
+"Low" engagement posts are the most common (1,729 posts), slightly more than "High" and "Medium". High engagement posts are almost as frequent as low ones, suggesting certain content types are hitting the mark.
+Top 5 Hashtags By Average Views
+
+#Fitness, #Music, and #Education are the top-performing hashtags in terms of average views, with #fitness topping the chart. These hashtags average well over 2.5 million views, hinting at consistently strong interest. #fashion had the lowest average views.
+Content Type By Average Shares
+
+Tweets and Reels receive the highest average shares with tweets having the highest, suggesting quick, digestible content drives sharing. The difference in shares between the top content types is marginal but meaningful. While shorts received the lowest average share.
+Total Comments By Region
+
+The USA, Canada, and Brazil lead in total comments, indicating highly active audiences. Comment volumes are relatively close, implying a broad international base. While Germany had the lowest total comments.
+Platform By Engagement Count
+
+YouTube has the highest count of posts with defined engagement levels, followed by TikTok and Instagram. All three platforms have fairly close engagement counts, which speaks to their comparable potential. While twitter had the least engagement counts.
+Platform By Content Type Count
+
+YouTube again leads in content volume, indicating creators prioritize the platform. TikTok and Instagram also have significant counts, showing strong creator presence. And twitter had the lowest content volume.
+RECOMMENDATION
+
+1. I recommend that we focus content strategy on YouTube, but we shouldn't  ignore TikTok as dual-platform optimization can broaden audience reach. Consider repurposing high-performing YouTube content for TikTok to maximize visibility without doubling production effort. I also recommend that the content strategy enacted for youtube and tiktok should also be enacted for Instagram to gain more views.
+
+2.I recommend that we analyze common traits in high-engagement posts to create a repeatable formula. I also recommend that underperforming content be improved by tweaking posting times, formats, or audience targeting.
+
+3. #Fitness, #Music, and #Education is the top-performing hashtags in terms of average views. These hashtags average well over 2.5 million views, hinting at consistently strong interest.
+
+4. I recommend that we prioritize short-form, shareable content like Reels and Tweets to increase organic spread.
+
+Use Reels to cross-promote Tweets or vice versa to take advantage of audience overlap.
+
+5. I recommend that  we tailor content messaging or language to cater to these top regions, starting with localization for the U.S., Canada, and Brazil. Engage with comments actively in these areas to build stronger community ties.
+
+6. I recommend that we keep a balanced strategy across YouTube, TikTok, and Instagram to maintain diverse touchpoints. and also track platform-specific engagement tactics—what works on TikTok may not translate to YouTube.
+
+7. I recommend that we match content formats with platform expectations (e.g., long-form on YouTube, snappy clips on TikTok). Audit performance by content type across platforms to find optimization gaps.
+
+ 
+
+CONCLUSION
+
+This social media trend analysis shows that creating engaging, short-form video content, especially on high-performing platforms like TikTok, can significantly boost visibility. Hashtags are more than decoration—they shape discovery and sharing. Regional preferences matter, so localization can’t be ignored. While views are critical, deeper engagement tells the real story of connection and influence.
+
+Content that speaks to current trends and aligns with user behavior in specific platforms and regions performs better. These findings support a data-informed approach to content strategy. With the right mix of format, theme, and timing, brands and creators can elevate their digital presence. Ultimately, the story is clear: viral success is intentional, not accidental.
